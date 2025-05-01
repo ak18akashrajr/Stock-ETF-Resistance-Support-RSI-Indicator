@@ -53,8 +53,8 @@ pip install yfinance numpy pandas matplotlib
     📢 Breakout Status      : ✅ Price is within Support & Resistance range (No breakout detected)
     
     --- RSI (14-day) Summary ---
-    Latest RSI Value       : 72.35
-    RSI Interpretation     : 🔴 RSI > 70 (Overbought — Possible correction)
+    Latest RSI Value       : 22.35
+    RSI Interpretation     : 🟢 RSI < 30 (Oversold — Possible rebound)
     ```
 
 
