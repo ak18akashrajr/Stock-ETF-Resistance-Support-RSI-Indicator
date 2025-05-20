@@ -26,19 +26,11 @@ pip install yfinance numpy pandas matplotlib
 ## Usage
 
 1. **Clone the repository** to your local machine:
-
-   ```bash
-   git clone https://github.com/your-username/stock-analysis-tool.git
-   cd stock-analysis-tool
-   ```
 2. **Install the required dependencies** by running the following command:
    ```bash
    pip install -r requirements.txt
     ```
 3. **Run the script by providing the stock symbol** (e.g., AAPL, TSLA, or Indian stock symbols with .NS suffix like RELIANCE.NS):
-   ```bash
-   python stock_analysis.py
-    ```
 4. **Example Usage**
    ```bash
    Enter any Ticker, For Indian Tickers Add Suffix wid .NS: NIFTYBEES.NS
